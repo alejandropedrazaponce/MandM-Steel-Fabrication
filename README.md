@@ -1,6 +1,6 @@
 # M&M Steel Fab - Business Website
 
-[Click here](https://www.mnmsteelfab.com/) to visit and interact with this website.
+[Click here](https://alejandropedrazaponce.github.io/MandM-Steel-Fabrication/) to visit and interact with this website.
 
 ## Description
 
